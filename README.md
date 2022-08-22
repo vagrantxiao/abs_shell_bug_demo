@@ -6,4 +6,23 @@ First, set up the environment variables for the Vitis Tool on you local machine 
 ```
 source /scratch/unsafe/Xilinx/Vitis/2021.1/settings64.sh
 ```
+Next, execute `make all` as below. The Makefile will autmatically: 1) compile the Verilog source files to a post-synthesis DCP; 2) place and route the post-synthesis DCP file within the abstract shell.
+
+```
+make all
+```
+
+Finally, you will see errors as below.
+
+
+
+
+
+
+
+
+
+
+
+
 
