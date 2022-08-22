@@ -14,7 +14,7 @@ make all
 
 Finally, you will see errors as below.
 
-![](figure/make_err.png)
+[](figure/make_err.png)
 
 
 
