@@ -24,7 +24,7 @@ Open the `input/abstract_shell/bc0_gen_0_overlay.dcp`, you can see the DFX regio
 
 ![](figures/dfx_region.png)
 
-Open the 'vivado.log', you can see 17 BRAM36s are blocked and only 24 BRAM36s are available to use.
+Open the `vivado.log`, you can see 17 BRAM36s are blocked and only 24 BRAM36s are available to use.
 
 ![](figures/place_err.png)
 
