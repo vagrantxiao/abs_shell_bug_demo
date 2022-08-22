@@ -16,6 +16,14 @@ Finally, you will see errors as below.
 
 ![](figures/make_err.png)
 
+Open the `utilization.rpt` file, you can see the target page needs 26 BRAM36s as below.
+
+![](figures/area.png)
+
+Open the `input/abstract_shell/bc0_gen_0_overlay.dcp`, you can see the DFX region have 33 BRAM36s available.
+
+![](figures/dfx_region.png)
+
 
 
 
