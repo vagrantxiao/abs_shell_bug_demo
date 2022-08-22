@@ -15,6 +15,6 @@ output/bc0_gen_0_syn.dcp:$(operators_src)
 
 clean:
 	rm -rf *.log *.jou *.rpt .Xil hd_visual *.str *.pb .*.rst
-	rm -rf ./output/*
+	rm -rf ./output/*.dcp ./output/*.bit
 
 
